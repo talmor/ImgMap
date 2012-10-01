@@ -1,7 +1,7 @@
 version: 0.1A
 author: Cirno
 name: ImgMap
-main: cirno.root
+main: cirno.Nineball
 
 commands:
  map:
